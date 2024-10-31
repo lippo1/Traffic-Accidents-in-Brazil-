@@ -1,0 +1,1 @@
+Since GitHub only allows datasets with less than MB and this dataset is over 100 MB, it needs to be downloaded through Kaggle : https://www.kaggle.com/datasets/mlippo/car-accidents-in-brazil-2017-2023
